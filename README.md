@@ -1,2 +1,2 @@
-# PacMan
-PacMan game with Python
+# Snake
+Snake game with Python
